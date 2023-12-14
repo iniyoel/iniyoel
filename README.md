@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iniyoel
+- 👋 Hi, I’m @yoelsiregar
 - 👀 I’m interested in GameDeveloper
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💞️ I’m looking to collaborate on ...
