@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yoelsiregar
-- 👀 I’m interested in GameDeveloper
-- 🌱 I’m currently learning HTML/CSS/JavaScript
+- 👀 I’m interested in SoftwareDeveloper
+- 🌱 I’m currently learning HTML/CSS/JavaScript/Bootstrap/Tailwind/SQL/PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Instagram @_grsleoy
 
 <!---
 iniyoel/iniyoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
