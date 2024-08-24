@@ -2,7 +2,7 @@
 - 👀 I’m interested in SoftwareDevelopment
 - 🌱 I’m currently learning HTML/CSS/JavaScript/Bootstrap/Tailwind/SQL/PHP
 - 💞️ I’m looking to collaborate on ...
-- 📫 Instagram @_grsleoy
+- 📫 Instagram @yoelsrg_
 
 <!---
 iniyoel/iniyoel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
